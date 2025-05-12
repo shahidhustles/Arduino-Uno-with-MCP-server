@@ -1,0 +1,13 @@
+{
+  "devDependencies": {
+    "@types/johnny-five": "^2.1.11",
+    "@types/node": "^22.15.17",
+    "typescript": "^5.8.3"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.11.2",
+    "firmata": "^2.3.0",
+    "johnny-five": "^2.1.0",
+    "zod": "^3.24.4"
+  }
+}
